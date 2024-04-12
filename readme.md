@@ -2,7 +2,7 @@
 <p align='center'><img width='70%' src='https://github.com/rmflsdl4/main/assets/57540594/701ce24c-8f42-45c7-ac42-c875f28292fa'></p>
 
 # 📚 Skills 
-<div align='center'> 
+<div align='left'> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c sharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -27,10 +27,9 @@
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/rmflsdl4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
 </div>  
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&count_private=true&theme=dark&hide=contribs,prs)](https://github.com/rmflsdl4/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
+<hr>
+<img src="https://img.shields.io/badge/rmflsdl4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
