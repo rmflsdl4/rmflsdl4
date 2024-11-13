@@ -30,6 +30,6 @@
 </div>  
 <hr>
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&count_private=true&theme=dark&hide=contribs,prs)](https://github.com/rmflsdl4/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
 <hr>
 <img src="https://img.shields.io/badge/rmflsdl4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
