@@ -36,6 +36,5 @@
 <hr>
 
 ![Flier's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmflsdl4&count_private=true&include_all_commits=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmflsdl4&layout=compact)](https://github.com/rmflsdl4/github-readme-stats)
-<img src="http://mazandi.herokuapp.com/api?handle=rmflsdl4&theme=warm"/>
 <hr>
 <img src="https://img.shields.io/badge/rmflsdl4@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
