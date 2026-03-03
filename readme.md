@@ -38,3 +38,9 @@
 </details>  
 
 ![rmflsdl4 github-stats](https://github-stats-beta-rust.vercel.app/api/github-stats-advanced?login=rmflsdl4)  
+
+<div align="center">
+    <a href="https://github.com/rmflsdl4/REPO_NAME">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rmflsdl4&repo=F-Mate-Release&theme=vision-friendly-dark&show_owner=true" />
+    </a>
+</div>
