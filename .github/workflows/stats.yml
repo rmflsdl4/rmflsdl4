@@ -11,6 +11,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
-            - uses: hyochan/github-stats@v2.4.0
+            - uses: hyochan/github-stats@main
               with:
                   token: ${{ secrets.GH_TOKEN }}
