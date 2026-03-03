@@ -37,4 +37,4 @@
   </div>  
 </details>  
 
-![rmflsdl4 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=rmflsdl4)  
+![rmflsdl4 github-stats](https://github-stats-beta-rust.vercel.app/api/github-stats-advanced?login=rmflsdl4)  
