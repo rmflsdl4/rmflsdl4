@@ -20,7 +20,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.MY_3D_STATS }}
-          USERNAME: rmflsdl4
+          USERNAME: ${{ github.repository_owner }}
   
       - name: Commit & Push
         run: |
