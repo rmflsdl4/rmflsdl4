@@ -13,16 +13,21 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout
+        uses: actions/checkout@v5
+  
+      - name: Generate
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.MY_3D_STATS }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: rmflsdl4
+  
       - name: Commit & Push
         run: |
-          git config user.name rmflsdl4
-          git config user.email rmflsdl4@gmail.com
+          git config user.name "rmflsdl4"
+          git config user.email "rmflsdl4@gmail.com"
           git add -A .
-          if git commit -m "generated"; then
-            git push
+          if ! git diff --staged --quiet; then
+              git commit -m "Update 3D Contribution"
+              git push
           fi
